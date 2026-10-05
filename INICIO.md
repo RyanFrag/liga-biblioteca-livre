@@ -1,6 +1,6 @@
 ﻿# liga-biblioteca-livre
 
-Missao da **Liga Ionic INFO-24**.
+Projeto da **Liga Ionic INFO-24**.
 
 1. Leia `MISSAO.md`
 2. Use Node **22.23.1** e Ionic **9**

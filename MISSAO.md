@@ -1,6 +1,6 @@
-# Missão 05 · Biblioteca Livre
+# Projeto 05 · Biblioteca Livre
 
-## Lore
+## Contexto
 A turma empresta livros entre si. Sem sumiço, com status.
 
 ## Itens sugeridos
@@ -12,12 +12,12 @@ A turma empresta livros entre si. Sem sumiço, com status.
 | Use a Cabeça Java | disponível |
 | Comic da turma | esgotado / indisponível |
 
-## Boss (obrigatório)
+## Regra do tema (obrigatória)
 Só empresta se status for **disponível**. Ao emprestar, status vira **emprestado** e grava no Firestore.
 Badge vermelha em indisponível.
 
-## Cofre (Firestore)
+## Firestore
 Coleção: `emprestimos_biblio` (aluno, livro, data).
 
-## Rank sugerido da guilda
+## Visual sugerido
 Cor: marrom / creme papel
