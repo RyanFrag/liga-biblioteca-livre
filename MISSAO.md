@@ -1,23 +1,13 @@
-# Projeto 05 · Biblioteca Livre
+﻿# Biblioteca Livre
 
-## Contexto
-A turma empresta livros entre si. Sem sumiço, com status.
+## O que fazer
+1. Abra **`PRINTS.html`** neste repo (é o gabarito visual).
+2. Monte o app **parecido com o print** (não precisa ser idêntico).
+3. A regra do tema está **nas telas do print** — observe totais, badges e mensagens.
+4. Cada semana o professor libera issues novas. Faça só as da semana aberta.
 
-## Itens sugeridos
-| Livro | Status inicial |
-|-------|----------------|
-| Clean Code (resumo) | disponível |
-| Dom Casmurro | disponível |
-| O Guia do Mochileiro | emprestado |
-| Use a Cabeça Java | disponível |
-| Comic da turma | esgotado / indisponível |
+## Stack
+Node **22.23.1** · Ionic **9** standalone · Firebase de vocês
 
-## Regra do tema (obrigatória)
-Só empresta se status for **disponível**. Ao emprestar, status vira **emprestado** e grava no Firestore.
-Badge vermelha em indisponível.
-
-## Firestore
-Coleção: `emprestimos_biblio` (aluno, livro, data).
-
-## Visual sugerido
-Cor: marrom / creme papel
+## Entrega
+Link do seu **fork** + demo: login → lista → regra do print → Firestore
